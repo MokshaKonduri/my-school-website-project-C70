@@ -1,0 +1,58 @@
+body {
+
+    text-align: center;
+
+}
+
+#campusLifeHead {
+
+    color: hotpink;
+
+}
+
+#achivementHead {
+
+    color: hotpink;
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    display: inline-block;
+    width: 100%;
+
+}
+
+#achivementHead i {
+    
+    float: right;
+    
+}
+
+#whatsNewHead {
+
+    color: hotpink;
+
+}
+
+#contacUsHead {
+
+    color: hotpink;
+
+}
+
+#Marquee {
+    background-color: hotpink;
+    font-size: 20px;
+}
+
+#groundImage {
+
+    width: 100%;
+
+}
+
+#compImage {
+
+    width: 100%;
+
+}
